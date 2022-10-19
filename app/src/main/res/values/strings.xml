@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Kotlin</string>
+    <string name="Department_Text">Waht is your Deprtment</string>
+    <string name="Club_text">Waht is your club</string>
+    <string name="dis">DIS</string>
+    <string name="rsi">RSI</string>
+    <string name="android">Android</string>
+    <string name="microsoft">Microsoft</string>
+    <string name="submit">Submit</string>
+    <string name="sem">SEM</string>
+</resources>
